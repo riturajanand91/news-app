@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+ Project Using open source apis for fetching news and displaying grid with modal using material ui from React.
 ### `npm start`
 
 Runs the app in the development mode.\
